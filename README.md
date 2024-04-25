@@ -1,6 +1,9 @@
  <h1 align="center"> CRAWL-MD</h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=000000&background=FFFFFF&random=false&width=500&lines=CREATED+BY+GAMING+CRAWL;WEB+CODING+WITH+CRAWL" alt="Typing SVG" /></a>
+
+
  
 <h3 align="center"> <a href="https://github.com/CRAWL001">CRAWL</a></h3> 
 
