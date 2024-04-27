@@ -35,7 +35,7 @@
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
+ <a href="https://github.com/CRAWL001">
  <img title="Owner" src="https://img.shields.io/badge/CRAWL001-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/CRAWL001">
     <img src="https://img.shields.io/github/followers/CRAWL001?style=flat-square&logo=github&color=darkred">
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/CRAWL-MD"><b>CRAWL-MD</b></a> Support Deploy On...
+  <a href="https://github.com/CRAWL001/CRAWL-MD"><b>CRAWL-MD</b></a> Support Deploy On...
 </p>
 
 <p align="center">
